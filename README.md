@@ -5,6 +5,10 @@
 **Deployed Transaction:**  
 🔗 [View on Celoscan](https://sepolia.celoscan.io/tx/0x032541c3545dd1272c1f34a69a0d8f4dd466d19e9eef065719a6b66ad2e91d59)
 
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dd640dfb-8f5b-4a53-a290-a220f9ff87bb" />
+
+
 ---
 
 ## 📖 Project Description
