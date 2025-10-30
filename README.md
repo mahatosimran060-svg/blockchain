@@ -2,6 +2,8 @@
 # 🛡️ Proof of Product Coverage — Solidity Smart Contract
 
 ### Network: **Ethereum Sepolia Testnet**  
+[Contract](https://github.com/mahatosimran060-svg/blockchain/blob/main/contract/blockwarranty.sol)
+
 **Deployed Transaction:**  
 🔗 [View on Celoscan](https://sepolia.celoscan.io/tx/0x032541c3545dd1272c1f34a69a0d8f4dd466d19e9eef065719a6b66ad2e91d59)
 
@@ -10,7 +12,6 @@
 
 
 ---
-[Contract](https://github.com/mahatosimran060-svg/blockchain/blob/main/contract/blockwarranty.sol)
 
 ## 📖 Project Description
 **Proof of Product Coverage** is a simple and transparent **Solidity-based smart contract** that allows anyone to **register products and attach verifiable proofs of coverage** (like warranty, inspection, or authenticity data).  
